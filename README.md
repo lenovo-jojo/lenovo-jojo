@@ -1,4 +1,4 @@
-# Hi, I’m Jojo 👋
+# Hi, I’m Lenovo Jojo 
 
 ### Creative technologist & indie developer
 
