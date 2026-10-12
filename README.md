@@ -12,7 +12,7 @@ My work combines product thinking, experimentation, and AI-assisted development.
 | --- | --- |
 | [Claimants with Yes](https://github.com/lenovo-jojo/claimants-with-yes) | A catalog-transfer utility: filtering, deduplication, CSV output, Swift and PowerShell implementations, and synthetic-data checks. |
 | [Jolie’s Virtual Picnic](https://github.com/lenovo-jojo/neocities-practice) · [Live site](https://joliesarro.neocities.org/) | An interactive HTML/CSS/JavaScript practice site, with scene objects, media overlays, animation, and an honest technical review. |
-| [JARVIS / Critter Comforts](https://github.com/lenovo-jojo/portfolio/blob/main/case-studies/companion-evolution.md) | An evolving companion project spanning desktop-pet ideas, a GameCube dialogue mod, JavaScript experiments, and Unity. |
+| [JARVIS / Critter Comforts source](https://github.com/lenovo-jojo/Jarvis) · [Case study](https://github.com/lenovo-jojo/portfolio/blob/main/case-studies/companion-evolution.md) | An evolving companion project spanning desktop-pet ideas, a GameCube dialogue mod, JavaScript experiments, and Unity. |
 
 ## How I work
 
