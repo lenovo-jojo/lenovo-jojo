@@ -2,7 +2,7 @@
 
 ### creative technologist & indie developer
 
-i turn practical workflows and playful ideas into software—from catalog-transfer tools to interactive websites and companion prototypes.
+i turn practical workflows and playful ideas into software—from work tools to interactive websites and companion prototypes.
 
 my work combines product thinking, experimentation, and AI-assisted development. i use AI openly, and focus on defining the problem, directing the experience, checking behavior, and improving the result.
 
