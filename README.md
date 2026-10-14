@@ -10,7 +10,7 @@ my work combines product thinking, experimentation, and synthetic code assisted 
 
 | project | what to look for |
 | --- | --- |
-| [catalog transfer spreadsheet review](https://github.com/lenovo-jojo/claimants-with-yes) | a catalog-transfer utility: filtering, deduplication, csv output, swift and powershell implementations, and synthetic-data checks. |
+| [catalog transfer spreadsheet review](https://github.com/lenovo-jojo/catalog-transfer-spreadsheet-review) | a catalog-transfer utility: filtering, deduplication, csv output, swift and powershell implementations, and synthetic-data checks. |
 | [jolie’s virtual picnic](https://github.com/lenovo-jojo/neocities-practice) · [live site](https://joliesarro.neocities.org/) | an interactive html/css/javascript practice site, with scene objects, media overlays, animation, and an honest technical review. |
 | [critter comforts source](https://github.com/lenovo-jojo/Jarvis) · [case study](https://github.com/lenovo-jojo/portfolio/blob/main/case-studies/companion-evolution.md) | an evolving companion project spanning desktop-pet ideas, a gamecube dialogue mod, javascript experiments, and unity. |
 
